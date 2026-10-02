@@ -49,12 +49,5 @@ int main() {
 	return 0;
 }
 `
-  },
-  {
-    title: "Escaped backtick example (JavaScript)",
-    code: `const name = 'World';
-const msg = \`Hello, \${name}!\\n\`;
-console.log(msg);
-`
   }
 ];
